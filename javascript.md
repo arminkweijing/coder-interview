@@ -1,7 +1,30 @@
 # JavaScript 面试题
 
 <details>
+<summary>JavaScript 数据类型有哪些？「answer  to be refined」</summary>
+
+5种基本数据类型：
+
+`Undefined`、`Null`、`Boolean`、`Number`、`String`
+
+1种复杂数据类型：`Object`
+</details>
+
+<details>
+<summary>null 和 undefined 区别 「answer  to be refined」</summary>
+
+用法差不多:
+    null == undefined   // true
+    在 if 中都会被转化为 false
+undefined:声明但是未初始化
+null：表示一个空对象的指针(历史遗留问题)
+
+参见：http://www.ruanyifeng.com/blog/2014/03/undefined-vs-null.html
+</details>
+
+<details>
 <summary>jQuery('#id') 与 document.getElementById('id') 之间如何转换？😄🌙</summary>
+
 
 ## 考点
 DOM 对象与 jQuery 对象的异同
@@ -29,8 +52,8 @@ $('#id')[0] === document.getElementById('id')
 
 - 拥有 `length` 属性，`length-0`可隐式转换为number类型，并且不大于`Math.pow(2,32)`；
 
-- <details>
-  <summary>jQuery('#id') 与 document.getElementById('id') 之间如何转换？😄🌙</summary>
+<details>
+<summary>jQuery('#id') 与 document.getElementById('id') 之间如何转换？😄🌙</summary>
 
 示例：
 
