@@ -57,3 +57,8 @@
 
 > 离职原因 | 
 
+## 赞赏
+
+家境贫寒，整理不易，各位看官如果觉得不错欢迎打赏！
+
+<img src="assets/alipay.jpg" alt="支付宝支付" width="200px"> <img src="assets/wechatPay.jpg" alt="微信支付" width="200px">
