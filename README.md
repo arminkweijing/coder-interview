@@ -1,5 +1,6 @@
-# interview-awesome
-程序员面试题收集汇总   
+# coder-interview
+
+程序员面试题收集汇总
 
 > 难度：😄简单、🙂一般、🤔较难、😱爆炸难
 
@@ -13,13 +14,13 @@
 
 ### 基础语言
 
-> [HTML]() | [CSS]()
+> HTML | CSS
 
-> [JavaScript](javascript.md) | TypeScript | [Node.js]()
+> [JavaScript](javascript.md) | TypeScript | Node.js
 
 > Java | Golang | Python
 
-### 预编译器 
+### 预编译器
 > Pug | Stylus
 
 ## 框架
@@ -55,7 +56,7 @@
 
 ## 其它
 
-> 离职原因 | 
+> 离职原因 |
 
 ## 赞赏
 
