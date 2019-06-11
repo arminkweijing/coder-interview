@@ -17,11 +17,16 @@
 
 ### 基础语言
 
-<details><summary>HTML</summary></details>
-<details><summary>CSS</summary></details>
+<details open><summary>HTML ⏳</summary>
+
+- [什么是 Doctype？有几种模式？](html/什么是Doctype？有几种模式？.md)「answer to be refined」
+- [JS 延迟加载和异步加载的区别？](html/JS延迟加载和异步加载的区别？.md)「answer to be refined」
+</details>
+<details open><summary>CSS ⏳</summary></details>
+
 <details open><summary>JavaScript ⏳</summary>
 
-- [JavaScript 数据类型有哪些？「answer to be refined」](javascript/JavaScript数据类型有哪些？.md)
+- [JavaScript 数据类型有哪些？](javascript/JavaScript数据类型有哪些？.md)「answer to be refined」
 - [null 和 undefined 区别](javascript/null和undefined区别.md) 😄🌙
 - JavaScript 类型转换规则
 - [jQuery('#id') 与 document.getElementById('id') 之间如何转换？](javascript/jQuery('%23id')与document.getElementById('id')之间如何转换？.md) 😄🌙
