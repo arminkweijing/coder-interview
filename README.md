@@ -1,62 +1,80 @@
 # coder-interview
 
 程序员面试题收集汇总
-
-> 难度：😄简单、🙂一般、🤔较难、😱爆炸难
-
-> 概率：☀️必考、🌙常见、⚡️罕见
+> 进度：⌛️`已完成` ⏳`进行中`
+> 概率：☀️`必考`、🌙`常见`、⚡️`罕见`
+> 难度：😄`简单`、🙂`一般`、🤔`较难`、😱`爆炸难`
 
 ## 核心基础
 
-> 数据结构 | 算法 | 操作系统 | | 网络 | 设计模式
+<details><summary>数据结构</summary></details>
+<details><summary>算法</summary></details>
+<details><summary>操作系统</summary></details>
+<details><summary>网络</summary></details>
+<details><summary>设计模式</summary></details>
 
 ## 编程语言
 
 ### 基础语言
 
-> HTML | CSS
+<details><summary>HTML</summary></details>
+<details><summary>CSS</summary></details>
+<details open><summary>JavaScript ⏳</summary>
 
-> [JavaScript](javascript.md) | TypeScript | Node.js
-
-> Java | Golang | Python
+- [JavaScript 数据类型有哪些？「answer to be refined」](javascript/JavaScript数据类型有哪些？.md)
+- [null 和 undefined 区别](javascript/null和undefined区别.md) 😄🌙
+- JavaScript 类型转换规则
+- [jQuery('#id') 与 document.getElementById('id') 之间如何转换？](javascript/jQuery('%23id')与document.getElementById('id')之间如何转换？.md) 😄🌙
+</details>
+<details><summary>TypeScript</summary></details>
+<details><summary>Node.js</summary></details>
+<details><summary>Java</summary></details>
+<details><summary>Golang</summary></details>
+<details><summary>Python</summary></details>
 
 ### 预编译器
-> Pug | Stylus
+<details><summary>Pug</summary></details>
+<details><summary>Stylus</summary></details>
 
 ## 框架
 
-> Vue | Spring Boot
+<details><summary>Vue</summary></details>
+<details><summary>Spring Boot</summary></details>
 
 ## 插件&组件
-> JavaScript原生插件 | jQuery | Zepto
+
+<details><summary>JavaScript 插件</summary></details>
+<details><summary>jQuery</summary></details>
+<details><summary>Zepto</summary></details>
 
 ## 宿主环境
 
-> 浏览器
-
-> JVM
+<details><summary>浏览器</summary></details>
+<details><summary>Chrome V8</summary></details>
+<details><summary>JVM</summary></details>
 
 ## 集成部署
 
-> 代码管理
-
-> 持续集成
+<details><summary>代码管理</summary></details>
+<details><summary>Jenkins 持续集成</summary></details>
+<details><summary>容器技术：Docker、Kubernetes(k8s)</summary></details>
 
 ## 架构设计
-> 前端 xx
-> 后端 分布式 | 微服务
+
+<details><summary>前端架构设计</summary></details>
+<details><summary>后端架构设计</summary></details>
+<details><summary>分布式架构设计</summary></details>
+<details><summary>微服务架构设计</summary></details>
 
 ## 技术管理
 
-> 技术架构
-
-> 项目管理
-
-> 人员管理
+<details><summary>技术架构</summary></details>
+<details><summary>项目管理</summary></details>
+<details><summary>人员管理</summary></details>
 
 ## 其它
 
-> 离职原因 |
+<details><summary>离职原因</summary></details>
 
 ## 赞赏
 
