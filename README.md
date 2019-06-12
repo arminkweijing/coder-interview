@@ -93,7 +93,8 @@
 
 ## 其它
 
-<details><summary>离职原因</summary></details>
+- [自我介绍](others/自我介绍.md)「answer to be refined」
+- 离职原因
 
 ## 赞赏
 
